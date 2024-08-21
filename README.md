@@ -20,8 +20,8 @@ This is a solution to the [Keeper App Project](https://www.udemy.com/course/the-
 - Create a Keeper App using React that is a similar clone of Google Keep.
 
 ### Screenshots
-![KeeperAppScreenshot](https://user-images.githubusercontent.com/67170897/135128596-f92d5036-cfd9-4953-aa21-fb0f09397e84.PNG)
-![KeeperAppScreenshot2](https://user-images.githubusercontent.com/67170897/135128616-fa8f3180-9118-4647-a368-d5916955e5a9.PNG)
+![](./Screenshots/Screenshot-1.png)
+![KeeperAppScreenshot2]()
 
 
 ### Links
@@ -43,6 +43,5 @@ This is a solution to the [Keeper App Project](https://www.udemy.com/course/the-
 
 ## Author
 
-- GitHub - [@Fotinh0](https://github.com/fotinh0)
-- Frontend Mentor - [@fotinh0](https://www.frontendmentor.io/profile/fotinh0)
-- LinkedIn - [@Foti-Ceci](https://www.linkedin.com/in/foti-ceci/)
+- GitHub - Yash Joshi (https://github.com/yashgjoshi20)
+- Frontend Mentor - Yash Joshi (https://www.frontendmentor.io/profile/yashgjoshi20)
