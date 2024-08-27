@@ -86,6 +86,8 @@ The Keeper App is a web application project that serves as a to-do list or notes
 
 - [reactjs.org](https://reactjs.org/docs/getting-started.html)
 
+# Scripts Library: The Application needs to update/install the Scripts library.
+
 ## Author
 
 - GitHub - Yash Joshi (https://github.com/yashgjoshi20)
